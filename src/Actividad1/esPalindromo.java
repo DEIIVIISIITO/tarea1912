@@ -1,4 +1,5 @@
 package Actividad1;
+//DAVID CRUZ YANEZ 1ºDAW
 
 public class esPalindromo {
 	public static boolean validPalindrome(String s) {
