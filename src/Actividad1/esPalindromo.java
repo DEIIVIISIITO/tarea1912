@@ -1,6 +1,6 @@
 package Actividad1;
 //DAVID CRUZ YANEZ 1ºDAW
-
+//PULL MODIFICACION
 public class esPalindromo {
 	public static boolean validPalindrome(String s) {
 	       for (int i = 0, j = s.length() - 1; i < j; i++, j--) {
